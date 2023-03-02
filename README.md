@@ -4,7 +4,7 @@
 
 #### Ссылка на google collab
 
-https://colab.research.google.com/drive/1isM4ipHrp9cMzyD-QZ0skwG7WGBReo9T?usp=sharing
+https://colab.research.google.com/drive/1mjQ3KEYUg5gYIvZcPF8ueDXk3lyFLQ7T?usp=sharing
 
 #### FastQC
 
